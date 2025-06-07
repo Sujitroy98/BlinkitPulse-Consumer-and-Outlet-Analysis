@@ -46,9 +46,9 @@
 ---
 
 ## Insights and Conclusions
-  1. Blinkit shows strong sales, crossing the $1M mark
-  2. Low-fat items are preferred, suggesting a health-conscious customer base
-  3. Fruits, vegetables, and snacks are the highest-selling categories
-  4. Medium-sized outlets in Tier 3 areas yield the highest profitability
-  5. Supermarkets lead in sales, while grocery stores rank high in product visibility
+  - Blinkit shows strong sales, crossing the $1M mark
+  -Low-fat items are preferred, suggesting a health-conscious customer base
+  -Fruits, vegetables, and snacks are the highest-selling categories
+  -Medium-sized outlets in Tier 3 areas yield the highest profitability
+  -Supermarkets lead in sales, while grocery stores rank high in product visibility
 
